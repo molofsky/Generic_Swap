@@ -1,4 +1,6 @@
-/* A 
+/* A generic swap function that swaps two void * arguments
+* of nbyte size. Takes user input through main().
+*
 * @author Adrian Molofsky
 * @version 1/9/23
 */
