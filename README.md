@@ -1,2 +1,2 @@
 # Generic_Swap
-A generic function to swap two void* arguments
+A generic swap function
