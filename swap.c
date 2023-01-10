@@ -1,5 +1,5 @@
 /* A generic swap function that swaps two void * arguments
-* of nbyte size. 
+* of n byte size. 
 *
 * @author Adrian Molofsky
 * @version 1/9/23
